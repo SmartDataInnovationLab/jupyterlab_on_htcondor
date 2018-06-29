@@ -7,7 +7,7 @@ echo "token: " $token
 cd $workdir
 
 # setup_anaconda
-# . /etc/profile.d/anaconda.sh
+. /etc/profile.d/anaconda.sh
 
 setup-anaconda
 source activate my_env
