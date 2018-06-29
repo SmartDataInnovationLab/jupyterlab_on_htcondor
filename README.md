@@ -26,8 +26,7 @@ At first you need to enter your sdil-credentials. Then the command runs forever 
 
 connect to container:
 
-		firefox localhost:8888
-		# enter token: abcd
+		firefox "localhost:8888/?token=abcd"
 
 ## use case
 
